@@ -1,0 +1,20 @@
+.header {
+  background-color: dodgerblue;
+  color: white;
+  font-family: sans-serif;
+  display: flex;
+  height: 50px;
+}
+
+h2 {
+  margin: auto auto auto 10px;
+}
+
+button {
+  color: blue;
+  background: white;
+  text-align: center;
+  padding: 10px 15px;
+  border: none !important;
+  margin: auto 10px auto auto;
+}
