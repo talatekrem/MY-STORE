@@ -20,8 +20,8 @@ const routes: Routes = [
     component: ProductListComponent
   },
   {
-   path: 'not-found',
-   component: NotFoundPageComponent
+    path: 'not-found',
+    component: NotFoundPageComponent
   },
   {
     path: '**',
